@@ -40,6 +40,5 @@
 
 # miscellaneous
 CMakeLists.txt
-
-RPSutils.h
+RPS_utils.h
 UserInputHandler.h
