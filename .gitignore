@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+
+# .idea
+/.idea
+
+# cmake build
+/cmake-build-debug
+
+# miscellaneous
+CMakeLists.txt
+RPS.h
+RPSutils.h
+UserInputHandler.h
