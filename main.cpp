@@ -4,6 +4,8 @@
 using namespace std;
 
 int main() {
-
+    RPS myRPS;
+    UserInputHandler UIHandler;
+    UIHandler.init(myRPS);
     return 0;
 }
